@@ -1,0 +1,6 @@
+{
+  "name": "Assistente Adunanze JW WOL",
+  "description": "Applicazione per la consultazione del programma adunanze da wol.jw.org, creazione di discorsi a tempo, preparazione di risposte e commenti con IA e approfondimenti tematici basati esclusivamente sulla Watchtower Online Library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
